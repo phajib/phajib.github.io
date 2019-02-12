@@ -1,11 +1,11 @@
 # Site settings
-author: H B
-title: 
+author: Pros Haji Batin
+title: I want to be a Keyboard Cowboy
 header-img: img/home-bg.png
 email: phajib@gmail.com
-copyright_name: H B
+copyright_name: Pros Haji Batin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to see pass the code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  phajib
