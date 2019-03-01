@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "*The End Is The Beginning Is The End*"
+title:      "The End Is The Beginning Is The End"
 date:       2019-02-28 19:04:32 -0500
 permalink:  the_end_is_the_beginning_is_the_end
 ---
