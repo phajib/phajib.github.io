@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'Irasshaimase! One request response cycle!'"
-date:       2019-09-21 09:22:00 +0000
+date:       2019-09-21 05:22:01 -0400
 permalink:  irasshaimase_one_request_response_cycle
 ---
 
@@ -34,7 +34,7 @@ The server will then run some code (code your wrote eg. your Sinatra Project) an
 ![](http://curriculum-content.s3.amazonaws.com/how-the-web-works/Image_17_ComputerServer.png)
 
 
-In regards to your project, the reques response cycle looks like this:
+In regards to your project, the request response cycle looks like this:
 
 ![](http://images.thoughtbot.com/ember-rails-terminology-differences/rails.png)
 
