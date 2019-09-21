@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLIC communicate - log it - imagine - capture"
-date:       2019-09-16 10:51:37 +0000
+date:       2019-09-16 06:51:38 -0400
 permalink:  clic_communicate_-_log_it_-_imagine_-_capture
 ---
 
@@ -32,7 +32,7 @@ Yes, `binding.pry` and a DB browser will help you tremedously!
 
 If you're not too sure with CSS, good old Bootstrap is there to make things flow, well kind of. Getting things in order when it comes to CSS files can change how your site will appear and it can look different on different browsers. Templates can come in handy, it's just a matter of putting your skeleton of CRUD within the template. It can take a bit of fiddling but once you've figured a few `class=""` names figured out or `id=""` you'll be right!
 
-Overall it was satisfying to know you competed *Frontend* and *Backend*, YEH YOU DID!!
+Overall it was satisfying to know you completed *Frontend* and *Backend*, YEH YOU DID!!
 
 
 > “To me, photography is an art of observation. It’s about finding something interesting an ordinary place… I’ve found it has little to do with the things you see and everything to do with the way you see them.”
