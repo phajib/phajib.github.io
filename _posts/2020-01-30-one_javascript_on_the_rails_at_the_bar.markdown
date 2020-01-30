@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'One Javascript on the Rails at the bar...'"
-date:       2020-01-30 22:42:30 +0000
+date:       2020-01-30 17:42:31 -0500
 permalink:  one_javascript_on_the_rails_at_the_bar
 ---
 
